@@ -1,7 +1,7 @@
 
 | Dev Card                  | Intro               |
 |------------------------|-----------------------------|
-| <a href="https://app.daily.dev/president"><img src="https://api.daily.dev/devcards/765cbf36a9434df7be7569a02ffcb77a.png?r=xma" width="400" alt="Albert Banda's Dev Card"/></a> | <p><h1 align="center">Hi 👋, I'm President</h1> <h3 align="center">I am a tech enthusiast who is passionate about Linux, Laravel, JavaScript React, Tailwind and Back-end technologies... Yes, SQL as well.</h3> </p>|
+| <a href="https://app.daily.dev/president"><img src="https://api.daily.dev/devcards/v2/Y4MqfdZS95PbhDuAfCY1O.png?r=930&type=default" width="356" alt="Albert Banda's Dev Card"/></a> | <p><h1 align="center">Hi 👋, I'm President</h1> <h3 align="center">I am a tech enthusiast who is passionate about AWS, Linux, Laravel, JavaScript React, Tailwind and Back-end technologies... Yes, SQL as well.</h3> </p>|
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=president-banda" alt="president-banda" /></a> </p>
