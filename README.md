@@ -34,7 +34,7 @@
 
 | Languages          | Contributions                   |  Profile Views  |
 |------------------------|-----------------------------|-----------------|
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=president-banda&show_icons=true&locale=en&layout=compact" alt="president-banda" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=president-banda&" alt="president-banda" /><img src="https://komarev.com/ghpvc/?username=President-Banda&label=Profile%20views&color=0e75b6&style=flat" alt="President-Banda" /></p> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=president-banda&show_icons=true&locale=en&layout=compact" alt="president-banda" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=president-banda&" alt="president-banda" /> | <img src="https://komarev.com/ghpvc/?username=President-Banda&label=Profile%20views&color=0e75b6&style=flat" alt="President-Banda" /></p> |
 
 
 
